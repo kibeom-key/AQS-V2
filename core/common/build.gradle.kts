@@ -3,5 +3,8 @@ plugins {
 }
 
 android {
-    namespace = "kb.example.qs.core"
+    namespace = "kb.example.qs.core.common"
+}
+
+dependencies {
 }

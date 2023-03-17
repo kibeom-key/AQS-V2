@@ -1,4 +1,4 @@
-package kb.example.qs.domain
+package kb.example.qs.core.data
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("kb.example.qs.domain.test", appContext.packageName)
+        assertEquals("kb.example.qs.core.data.test", appContext.packageName)
     }
 }

@@ -1,4 +1,4 @@
-package kb.example.qs.domain
+package kb.example.qs.core.model
 
 import org.junit.Test
 

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "kb.example.qs.core.model.data"
+    namespace = "kb.example.qs.core.model"
 }
 
 dependencies {

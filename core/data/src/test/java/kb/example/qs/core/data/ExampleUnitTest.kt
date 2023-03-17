@@ -1,4 +1,4 @@
-package kb.example.qs.database
+package kb.example.qs.core.data
 
 import org.junit.Test
 

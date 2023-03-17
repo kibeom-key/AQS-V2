@@ -1,4 +1,4 @@
-package kb.example.qs
+package kb.example.qs.core.common
 
 import org.junit.Test
 
