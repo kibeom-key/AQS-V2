@@ -12,3 +12,13 @@
         - version catalog
             - libs.versions.toml
     - [UI (Material 3)](https://www.figma.com/community/file/1164313362327941158/Now-In-Android-Case-Study)
+
+- How to set with purity
+    1. Code - Download ZIP
+    2. Open project in AndroidStudio
+    3. Preferences - Gradle JDK 11
+    4. Rename Package Directories (All Directories) 
+    5. Modify Namespace (All Modules)
+    6. Rename Convention-Plugin's id  
+    (build.gradle.kts (build-logic:convention-plugins))
+    7. Modify plugin-id (All Modules)
